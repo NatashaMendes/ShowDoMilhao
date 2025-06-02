@@ -1,2 +1,1 @@
-# ShowDoMilhao-
 Codigo dado pelo professor Thiago da fatec, em que se consiste em uma copia do show do milhao do Silvio Santos, com 9 perguntas, dividas entre faceis, médias e dificeis. Para escolher uma resposta, selecione uma das alternativas (1,2,3 e 4) e aperte no botao com o valor da pergunta. Se errar, aparecerá um botao "tente novamente".
